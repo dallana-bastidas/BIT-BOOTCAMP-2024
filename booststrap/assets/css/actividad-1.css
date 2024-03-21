@@ -1,0 +1,55 @@
+:root{
+    --color-blanco:#FFFFFF;
+    
+}
+
+
+.fondo{
+    background-image: url("../css/img/fondo.jpg");
+    background-size: cover ;
+    color: var(--color-blanco);
+    font-size: small;
+}
+
+.card-title{
+    margin-bottom: 0;
+}
+
+.card-text{
+    font-size: small;
+}
+
+.compra{
+    font-size: 25px;
+}
+
+.control{
+    width: 90px; height: 90px;
+    padding: 10px;
+}
+
+.pepe{
+    left: 95%;
+}
+
+.boton{
+    width: 25px; height: 25px;
+    margin: 10px;
+}e
+
+.total{
+    font-size: 20px;
+}
+
+.eliminar{
+    width: 200px;
+}
+
+.proceder{
+    background-color: blueviolet;
+    border: none;
+}
+
+.tarjeta{
+    width: 100px;
+}
